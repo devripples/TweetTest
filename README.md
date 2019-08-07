@@ -1,24 +1,19 @@
 # README
+# TweetTest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails app setup:
 
-Things you may want to cover:
+* git clone https://github.com/devripples/TweetTest.git
 
-* Ruby version
+* cd TweetTest
 
-* System dependencies
+* rake db:create
 
-* Configuration
+* rake db:migrate
 
-* Database creation
+* start rails server
 
-* Database initialization
+* rails s
 
-* How to run the test suite
+* open url http://localhost:3000
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
